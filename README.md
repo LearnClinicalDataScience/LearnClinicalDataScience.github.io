@@ -1,5 +1,3 @@
-# Coursera Clinical Data Science Specialization
-
 ## Welcome to the Tech Platform Beta Test!
 
 Today you’ll be testing a small portion of a Coursera course. By signing up, students will given an account on an RStudio Server hosted by Google Cloud and allowed to run queries on Google BigQuery. 
