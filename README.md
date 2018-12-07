@@ -32,17 +32,18 @@ Please try accessing both systems.
 There are two ways you can help us:
 
 1. Test RStudio by following these instructions:
-..* Go to [rstudio.learnclinicaldatascience.org](https://rstudio.learnclinicaldatascience.org)
-..* Log in using the google account you registered with.
-..* In the lower right corner of your screen you will see the files tab. Click the file "CourseraBetaTest.Rmd"
-..* Once you see the file open in the top left of your screen, just click the "Knit" and then "Knit to PDF" option.
-..* This may stop and ask you to approve bigquery. When this happens, sign into tthe same google account again, then copy the text it returns and paste it into the "Console" (lower left corner).
-..* That's it! Try the Bigquery system next!
+    * Go to [rstudio.learnclinicaldatascience.org](https://rstudio.learnclinicaldatascience.org)
+    * Log in using the google account you registered with.
+    * In the lower right corner of your screen you will see the files tab. Click the file "CourseraBetaTest.Rmd"
+    * Once you see the file open in the top left of your screen, just click the "Knit" and then "Knit to PDF" option.
+    * This may stop and ask you to approve bigquery. When this happens, sign into tthe same google account again, then copy the text it returns and paste it into the "Console" (lower left corner).
+
+    * That's it! Try the Bigquery system next!
 2. Test Google Bigquery by following these instructions:
-..* Go to [bigquery.cloud.google.com](https://bigquery.cloud.google.com/welcome)
-..* Click the "Compose Query" button on the top left.
-..* Copy and paste this query: select * from MIMIC3_DEMO.CHARTEVENTS
-..* That's it! Provide any feedback on the system and thank you so much for your time!
+    * Go to [bigquery.cloud.google.com](https://bigquery.cloud.google.com/welcome)
+    * Click the "Compose Query" button on the top left.
+    * Copy and paste this query: select * from MIMIC3_DEMO.CHARTEVENTS
+    * That's it! Provide any feedback on the system and thank you so much for your time!
   
 #### If you _do_ program
 
