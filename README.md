@@ -2,7 +2,7 @@
 
 Today you’ll be testing a small portion of a Coursera course. By signing up, students will given an account on an RStudio Server hosted by Google Cloud and allowed to run queries on Google BigQuery. 
 
-You can find all of the instructions at www.learnclinicaldatascience.org
+You can find all of the instructions at [www.learnclinicaldatascience.org](http://www.learnclinicaldatascience.org)
 
 You can provide feedback on the test [here](https://goo.gl/forms/DkMnz7pn5rGaShlH3)
 
