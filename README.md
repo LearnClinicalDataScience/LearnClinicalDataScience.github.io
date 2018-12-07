@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# Coursera Clinical Data Science Specialization
 
-You can use the [editor on GitHub](https://github.com/LearnClinicalDataScience/LearnClinicalDataScience.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to the Tech Platform Beta Test!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Today you’ll be testing a small portion of a Coursera course. By signing up, students will given an account on an RStudio Server hosted by Google Cloud and allowed to run queries on Google BigQuery. 
 
-### Markdown
+You can find all of the instructions at www.learnclinicaldatascience.org
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can provide feedback on the test [here](https://goo.gl/forms/DkMnz7pn5rGaShlH3)
 
-```markdown
-Syntax highlighted code block
+### Register for Access
+Please register for an [account](https://goo.gl/forms/EgPoY3iS63hQs5Ud2)
 
-# Header 1
-## Header 2
-### Header 3
+Please complete the form above, paying close attention to each prompt. Note that to access the system you must accept both the Terms of Service and the MIMIC Data Use Agreement!
 
-- Bulleted
-- List
+If possible, take notes on this process.
+* Was everything clear and understandable?
+* Did the form behave as you would expect?
+* Anything misleading or confusing?
 
-1. Numbered
-2. List
+It will take about 10 minutes for your account to be created, hang out and enjoy the food! 
 
-**Bold** and _Italic_ and `Code` text
+### Access course materials
 
-[Link](url) and ![Image](src)
-```
+After about 10 minutes, your account should be ready and you can log in to two systems:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* RStudio Server: [rstudio.learnclinicaldatascience.org](https://rstudio.learnclinicaldatascience.org)
+* Google BigQuery: [bigquery.cloud.google.com](https://bigquery.cloud.google.com/welcome)
 
-### Jekyll Themes
+Please try accessing both systems. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LearnClinicalDataScience/LearnClinicalDataScience.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### If you don't program 
 
-### Support or Contact
+There are two ways you can help us:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Test RStudio by following these instructions:
+..* Go to [rstudio.learnclinicaldatascience.org](https://rstudio.learnclinicaldatascience.org)
+..* Log in using the google account you registered with.
+..* In the lower right corner of your screen you will see the files tab. Click the file "CourseraBetaTest.Rmd"
+..* Once you see the file open in the top left of your screen, just click the "Knit" and then "Knit to PDF" option.
+..* This may stop and ask you to approve bigquery. When this happens, sign into tthe same google account again, then copy the text it returns and paste it into the "Console" (lower left corner).
+..* That's it! Try the Bigquery system next!
+2. Test Google Bigquery by following these instructions:
+..* Go to [bigquery.cloud.google.com](https://bigquery.cloud.google.com/welcome)
+..* Click the "Compose Query" button on the top left.
+..* Copy and paste this query: select * from MIMIC3_DEMO.CHARTEVENTS
+..* That's it! Provide any feedback on the system and thank you so much for your time!
+  
+#### If you _do_ program
+
+Please access both systems and play around! 
+
+Try running some basic R functions
+* Load/install packages (user space limited to 100mb)
+* Create some plots
+* Export your work
+
+See what you can break!
+* Do you have access to things that you shouldn’t?
+* Can you see other student’s work?
+* Anything slow to respond?
+
+
+
+
